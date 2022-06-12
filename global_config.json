@@ -212,7 +212,7 @@
         "branch": "develop"
       },
       "redpill_load": {
-        "source_url": "https://github.com/jimmyGALLAND/redpill-load.git",
+        "source_url": "https://github.com/pocopico/redpill-load.git",
         "branch": "develop"
       }
     },
